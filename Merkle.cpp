@@ -6,6 +6,8 @@
 *   Given a text file, it reads the file in blocks of the specified size,  *
 *   builds the tree and produces and verifies the membership proofs.       *
 *                                                                          *
+*   This supports static data with only appending new blocks.              *
+*                                                                          *
 \**************************************************************************/
 
 #include <fstream>
