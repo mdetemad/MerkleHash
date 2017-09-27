@@ -10,17 +10,15 @@
 *                                                                          *
 \**************************************************************************/
 
-#include <fstream>
-#include <iostream>
-#include <time.h>
 #include <algorithm>
 #include <vector>
 #include <string>
-#include <map>
 #include <numeric>
 #include <math.h>
 #include <iomanip>
 #include <sstream>
+#include <fstream>
+#include <iostream>
 #include <openssl/sha.h>
 
 using namespace std;
